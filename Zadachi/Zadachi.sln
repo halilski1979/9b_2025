@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrihodiStadion", "PrihodiStadion\PrihodiStadion.csproj", "{F7E377F2-84A5-47AF-8F89-9FA7EB22868E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basketball", "Basketball\Basketball.csproj", "{66670BA8-A2E3-49C7-8913-8E63B488B670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E377F2-84A5-47AF-8F89-9FA7EB22868E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E377F2-84A5-47AF-8F89-9FA7EB22868E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E377F2-84A5-47AF-8F89-9FA7EB22868E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E377F2-84A5-47AF-8F89-9FA7EB22868E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66670BA8-A2E3-49C7-8913-8E63B488B670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66670BA8-A2E3-49C7-8913-8E63B488B670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66670BA8-A2E3-49C7-8913-8E63B488B670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66670BA8-A2E3-49C7-8913-8E63B488B670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D35BC683-9852-4DD2-80A0-166EFBEA26FB}
+	EndGlobalSection
+EndGlobal
