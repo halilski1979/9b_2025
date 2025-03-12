@@ -6,9 +6,12 @@
         {
            
             
-            for (int i = 1; i <= 10; i++)
+            for (int i = 20; i <= 30; i++)
             {
-                Console.WriteLine(i);
+                if (i%2==0)
+                {
+                    Console.WriteLine(i);
+                }                
             }
         }
     }
