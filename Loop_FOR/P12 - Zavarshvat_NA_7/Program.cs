@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+            //Числа, завършващи на 7  и броят им
+
+            
             int br = 0;
             
             for (int i = 0; i < 1000; i++)
