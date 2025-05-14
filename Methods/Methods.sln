@@ -3,17 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01 - Demo", "P01 - Demo\P01 - Demo.csproj", "{AF6E4EFF-DEEE-4DEF-91D6-76880D1F9AF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01 - Demo", "P01 - Demo\P01 - Demo.csproj", "{AF6E4EFF-DEEE-4DEF-91D6-76880D1F9AF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02 - Methods_S_Parametri", "P02 - Methods_S_Parametri\P02 - Methods_S_Parametri.csproj", "{5718B251-107E-468D-A60C-483C382AE770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02 - Methods_S_Parametri", "P02 - Methods_S_Parametri\P02 - Methods_S_Parametri.csproj", "{5718B251-107E-468D-A60C-483C382AE770}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11 - Triangle", "P11 - Triangle\P11 - Triangle.csproj", "{1E18CC28-A3F0-4E2E-8F84-B3EFA49DD7E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P11 - Triangle", "P11 - Triangle\P11 - Triangle.csproj", "{1E18CC28-A3F0-4E2E-8F84-B3EFA49DD7E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12 - Triangle_Parametars", "P12 - Triangle_Parametars\P12 - Triangle_Parametars.csproj", "{BC768F56-E87C-4E88-A99A-DF33F0080D8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P12 - Triangle_Parametars", "P12 - Triangle_Parametars\P12 - Triangle_Parametars.csproj", "{BC768F56-E87C-4E88-A99A-DF33F0080D8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03 - Print", "P03 - Print\P03 - Print.csproj", "{C8D7F218-2A19-4E7C-947A-DE5F1CF4509F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03 - Print", "P03 - Print\P03 - Print.csproj", "{C8D7F218-2A19-4E7C-947A-DE5F1CF4509F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04 - PrintPatametri", "P04 - PrintPatametri\P04 - PrintPatametri.csproj", "{46D0AA1E-62B6-4417-8829-B2A6A5A77008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04 - PrintPatametri", "P04 - PrintPatametri\P04 - PrintPatametri.csproj", "{46D0AA1E-62B6-4417-8829-B2A6A5A77008}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P13 - NayGolqmoChislo", "P13 - NayGolqmoChislo\P13 - NayGolqmoChislo.csproj", "{F52801F4-3BA1-483E-A103-B43BB2AF569D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P14-MaxParametri", "P14-MaxParametri\P14-MaxParametri.csproj", "{6932ABFF-2B7A-48C3-B2CF-698643AD5FE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P15 - ZnakChislo", "P15 - ZnakChislo\P15 - ZnakChislo.csproj", "{680685CF-8708-4C30-8FF3-C90B2AB329F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P15 - ZnakChisloParametur", "P15 - ZnakChisloParametur\P15 - ZnakChisloParametur.csproj", "{B1BF7F7B-9E21-498F-8917-7772C33F0F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P16 - SborCifriChislo", "P16 - SborCifriChislo\P16 - SborCifriChislo.csproj", "{67CAB66F-6B21-41A6-82ED-ADD7907211D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +55,26 @@ Global
 		{46D0AA1E-62B6-4417-8829-B2A6A5A77008}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46D0AA1E-62B6-4417-8829-B2A6A5A77008}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46D0AA1E-62B6-4417-8829-B2A6A5A77008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F52801F4-3BA1-483E-A103-B43BB2AF569D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52801F4-3BA1-483E-A103-B43BB2AF569D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52801F4-3BA1-483E-A103-B43BB2AF569D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52801F4-3BA1-483E-A103-B43BB2AF569D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6932ABFF-2B7A-48C3-B2CF-698643AD5FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6932ABFF-2B7A-48C3-B2CF-698643AD5FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6932ABFF-2B7A-48C3-B2CF-698643AD5FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6932ABFF-2B7A-48C3-B2CF-698643AD5FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680685CF-8708-4C30-8FF3-C90B2AB329F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680685CF-8708-4C30-8FF3-C90B2AB329F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680685CF-8708-4C30-8FF3-C90B2AB329F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680685CF-8708-4C30-8FF3-C90B2AB329F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1BF7F7B-9E21-498F-8917-7772C33F0F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BF7F7B-9E21-498F-8917-7772C33F0F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BF7F7B-9E21-498F-8917-7772C33F0F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BF7F7B-9E21-498F-8917-7772C33F0F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67CAB66F-6B21-41A6-82ED-ADD7907211D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CAB66F-6B21-41A6-82ED-ADD7907211D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CAB66F-6B21-41A6-82ED-ADD7907211D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67CAB66F-6B21-41A6-82ED-ADD7907211D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
